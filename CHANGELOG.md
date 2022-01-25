@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-domains/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#103](https://github.com/googleapis/python-domains/issues/103)) ([2494a6f](https://github.com/googleapis/python-domains/commit/2494a6f379c911ecdddf1298abfb5ad7863906f1))
+
 ## [1.0.0](https://www.github.com/googleapis/python-domains/compare/v0.4.1...v1.0.0) (2021-12-03)
 
 
